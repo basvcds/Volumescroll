@@ -21,6 +21,10 @@ change the system output volume by scrolling over the menu bar:
   *System Settings ▸ Privacy & Security ▸ Accessibility*. Enable VolumeScroll,
   then quit and relaunch.
 
+## Download
+
+You can download the the binary from [releases](https://github.com/basvcds/Volumescroll/releases).
+
 ## Building
 
 Everything is built by a single script:
