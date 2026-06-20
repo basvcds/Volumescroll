@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="VolumeScroll.png" alt="VolumeScroll logo" width="180">
+</p>
+
 # VolumeScroll
 
 **Volume control from the menu bar.**
