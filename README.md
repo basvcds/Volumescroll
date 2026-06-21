@@ -53,6 +53,10 @@ The build output lands in `build/` (which is git-ignored).
 | [VolumeScroll.icns](VolumeScroll.icns) | App / About-window icon. |
 | [VolumeScroll.html](VolumeScroll.html) | Bundled preview page for the app. |
 
+## License
+
+Released under the [MIT License](LICENSE).
+
 ## Disclaimer
 
 I set this project up mainly to familiarize myself with **Claude**, **VS Code**,
